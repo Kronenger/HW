@@ -1,0 +1,76 @@
+body{
+    margin-right: 0.5vw;
+    margin-left: 0.5vw;
+    margin-top: 1.5vh;
+}
+
+.d1 div{
+    height: 10vh;
+    width: 100%;
+    margin-bottom: 2vh;
+}
+
+.d1 div{
+    height: 100px;
+    background-color: rgb(255, 183, 66);
+    width: 49.4%;
+    display: inline-block;
+    
+}
+
+.col2{
+    float: right;
+}
+
+.d2{
+    height: 40vh;
+    background-color: rgb(244, 255, 90);
+    width: 100%;
+    margin-bottom: 2vh;
+}
+
+.d3{
+    display: flex;
+    margin: 0;
+    margin-bottom: 2vh;
+}
+
+.d3 div{
+    height: 22vh;
+    justify-content: space-between;
+    background-color: rgb(108, 133, 245);
+    width: 33%;
+    margin: 0 auto;
+}
+
+.d3 .col1{
+    margin: 0;
+}
+
+.d3 .col3{
+    margin: 0;
+}
+
+.d4{
+    position: relative;
+}
+
+.d4 div{
+    height: 18vh;
+    width: 24.62%;
+    background-color: rgb(205, 211, 214);
+    position: absolute;
+    display: inline-block;
+}
+
+.d4 .col2{
+    left: 25.1%;
+}
+
+.d4 .col3{
+    left: 50.23%;
+}
+
+.d4 .col4{
+    left: 75.29%;
+}

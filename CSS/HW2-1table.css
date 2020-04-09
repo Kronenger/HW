@@ -1,0 +1,25 @@
+
+
+table{
+  width: 99.2vw;
+  height: 98.4vh;
+  border-spacing: 7px 11px;
+  margin: 0;
+    padding: 0
+}
+.q1 {
+  background-color: gold ;
+  height: 10%;
+}
+.q2 {
+  background-color: rgb(60, 66, 155) ;
+  height: 40%;
+}
+.q3 {
+  background-color: rgb(24, 121, 105) ;
+  height: 30%;
+}
+.q4 {
+  background-color: rgb(162, 192, 80) ;
+  height: 20%;
+}
