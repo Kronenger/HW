@@ -1,0 +1,33 @@
+.shacko {
+    margin-left: 300px;
+    margin-top: 330px;
+    height: 300px;
+    width: 300px;
+    border: solid 35px;
+    color: black; 
+    position: relative;
+}
+.div {
+    position: absolut;
+    margin: 0;
+}
+.red {
+    margin: 0;
+    height: 150px;
+    width: 150px;
+    background-color: red;
+}
+.blue {
+    margin-top: 0px;
+    margin-left: 150px;
+    height: 150px;
+    width: 150px;
+    background-color: blue;
+}
+.green {
+    margin-top: -225px;
+    margin-left: 75px;
+    height: 150px;
+    width: 150px;
+    background-color: green;
+}

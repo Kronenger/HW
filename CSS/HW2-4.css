@@ -1,0 +1,115 @@
+*{
+    margin: 0;
+}
+
+body{
+    width: 100vw;
+    height: 100vh;
+}
+
+header{
+    width: 100%;
+    height: 10%;
+    background-color: rgb(59, 251, 0);
+    position: fixed;
+}
+.info{
+    text-align: center;
+    font-size: larger;
+}
+header:hover{
+    background-color: rgb(255, 7, 7);
+}
+
+.images{
+    position: relative;
+    height: 100%;
+    width: 100%;
+}
+
+.images .right{
+    position: absolute;
+    margin-top: auto;
+    margin-bottom: auto;
+    left: 96%;
+    top: 0;
+    bottom: 0;
+    right: 0;
+    height: 80%;
+}
+
+.images .left{
+    position: absolute;
+    margin-top: auto;
+    margin-bottom: auto;
+    left: 0;
+    top: 0;
+    bottom: 0;
+    right: 0;
+    height: 80%;
+}
+
+.content{  
+    padding-top: 5%;
+    background-color: whitesmoke;
+    padding-left: 15%;
+    padding-right: 15%;
+    padding-bottom: 50px;
+}
+
+h1{
+    text-align: center;
+    font-size: 40px ;
+    margin-bottom: 70px;
+    font-family:    monospace  ;
+    color: black;
+}
+.name {
+    font-size: 30px;
+}
+.textsong {
+    text-align: center;
+}
+p{
+    display: block;
+    
+}
+
+.flex{
+    display: flex;
+    justify-content: center;
+    margin: auto;
+    border-right: 100px solid yellow;
+    border-left: 100px solid yellow;
+}
+
+.flex div{
+    width: 41%;
+    text-align: center;
+}
+span{
+    font-weight: bold;
+    color: rgb(63, 62, 62);
+}
+
+footer{
+    width: 100%;
+    text-align: center;
+    height: 10%;
+    background-color: rgb(255, 7, 7);
+}
+
+footer:hover{
+    background-color: rgb(127, 255, 7);
+}
+
+footer p{
+    padding-top: 1%;
+}
+
+.block{
+    height: 10%;
+}
+.colortext {
+    color: silver;
+}
